@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "at32f403a_clock.h": "c",
+        "main.h": "c",
+        "at32f403a_407.h": "c"
+    }
+}
