@@ -80,3 +80,5 @@ JLinkLog.txt
 *.Administrator
 *.uvopt
 *.uvguix.*
+*.zhpwa
+*.build_log.htm
