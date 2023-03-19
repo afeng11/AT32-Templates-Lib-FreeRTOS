@@ -18,7 +18,6 @@ void led_init()
 
 void at32_led_toggle(gpio_type *gpio_x, uint16_t pins)
 {
-    if (pins)
         gpio_x->odt ^= pins;
 }
 

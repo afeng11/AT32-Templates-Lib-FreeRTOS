@@ -82,3 +82,6 @@ JLinkLog.txt
 *.uvguix.*
 *.zhpwa
 *.build_log.htm
+*.dep
+*.axf
+*.zhpwa
